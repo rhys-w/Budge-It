@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Budge_It.BusinessLogic.Services.Interfaces</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Budge-It.BusinessLogic.Models\Budge-It.BusinessLogic.Models.csproj" />
+  </ItemGroup>
+
+</Project>
